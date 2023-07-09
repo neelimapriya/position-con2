@@ -166,8 +166,8 @@
     
     background-color:black;
 }
-.footer1{
-
+.footer-class{
+    background-color: black;
 }
 
 .footer-p{
@@ -200,4 +200,5 @@
     /* padding: 70%; */
     /* width: 70%;
     margin: auto; */
+    margin: 0 8rem;
 }
